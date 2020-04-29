@@ -3,7 +3,6 @@ package controllers
 import (
 	"raw-service/db"
 	"raw-service/models"
-
 	"github.com/pkg/errors"
 )
 
